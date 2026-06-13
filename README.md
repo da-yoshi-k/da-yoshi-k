@@ -6,7 +6,7 @@ Hello! I'm da-yoshi-k!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-yoshi-k&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,vite,ruby,rails,mysql,redis,linux,github,githubactions,vscode,figma&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxtjs,vite,ruby,rails,mysql,redis,linux,github,githubactions,vscode,figma,aws,gcp&perline=16)](https://skillicons.dev)
 
 ### 📈 Stats
 
